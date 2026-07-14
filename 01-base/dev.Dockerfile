@@ -1,0 +1,1 @@
+FROM agramirez2001/devcontainer:base
