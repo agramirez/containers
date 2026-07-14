@@ -21,7 +21,6 @@
             "extensions": [
 				"eamodio.gitlens"
 				,"alexkrechik.cucumberautocomplete"
-				,"ms-toolsai.jupyter"
 				,"jebbs.plantuml"
 				,"maruamallo.ea-plantuml-archimate"
 				,"james-yu.latex-workshop"
